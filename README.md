@@ -5,11 +5,11 @@
 
 ###2. 참고 사진
 
-  ![전체 사진](C:\Users\RETURN\Desktop\111\111.png)  위 사진은 게임 시작 전 장면이다.
+  ![111](https://user-images.githubusercontent.com/38284313/41166005-1cc52e3e-6b7a-11e8-9fbe-d1c6d5573268.PNG)  위 사진은 게임 시작 전 장면이다.
   
-  ![운석 터지는 사진](C:\Users\RETURN\Desktop\222\222.png)  위 사진은 플레이어가 운석을 탄환으로 맞추어 운석이 터지는 장면이다.
+  ![222](https://user-images.githubusercontent.com/38284313/41166032-350aac58-6b7a-11e8-8086-e78b54191d83.PNG)  위 사진은 플레이어가 운석을 탄환으로 맞추어 운석이 터지는 장면이다.
   
-  ![플레이어가 죽는 사진](C:\Users\RETURN\Desktop\333\333.png)  위 사진은 플레이어가 운석과 충돌하여 게임이 종료되는 장면이다.
+  ![333](https://user-images.githubusercontent.com/38284313/41166062-4c5a5200-6b7a-11e8-8c12-d465772cbdde.PNG)  위 사진은 플레이어가 운석과 충돌하여 게임이 종료되는 장면이다.
 
 ###3. 후기
 
